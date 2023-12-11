@@ -1,60 +1,8 @@
 [
   {
     "entityRef": {
-      "kind": "api",
-      "name": "hello-world"
-    },
-    "scorePercent": 50,
-    "scoreLabel": "Yellow",
-    "scoringReviewDate": "2022-01-01T08:00:00Z",
-    "scoreSuccess": "almost-failure",
-    "areaScores": [
-      {
-        "title": "Code",
-        "scorePercent": 100,
-        "scoreLabel": "Green",
-        "scoreSuccess": "success"
-      },
-      {
-        "title": "Documentation",
-        "scorePercent": 25,
-        "scoreLabel": "Red",
-        "scoreSuccess": "failure"
-      },
-      {
-        "title": "Operations",
-        "scorePercent": 100,
-        "scoreLabel": "Green",
-        "scoreSuccess": "success"
-      },
-      {
-        "title": "Quality",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
-      },
-      {
-        "title": "Security",
-        "scorePercent": 50,
-        "scoreLabel": "Yellow",
-        "scoreSuccess": "almost-failure"
-      }
-    ]
-  },
-  {
-    "entityRef": {
       "kind": "system",
-      "name": "non-valid-system"
-    },
-    "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 20,
-    "scoreSuccess": "failure",
-    "scoringReviewer": "n/a"
-  },
-  {
-    "entityRef": {
-      "kind": "system",
-      "name": "audio-playback"
+      "name": "PLATFORM"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
@@ -362,7 +310,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "podcast"
+      "name": "COLLAB"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
