@@ -1,6 +1,6 @@
 {
   "entityRef": {
-    "kind": "system",
+    "kind": "System",
     "name": "COLLAB"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
