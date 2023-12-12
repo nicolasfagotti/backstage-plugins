@@ -1,8 +1,8 @@
 [
   {
     "entityRef": {
-      "kind": "system",
-      "name": "PLATFORM"
+      "kind": "component",
+      "name": "guineaDS"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
