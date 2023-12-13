@@ -745,9 +745,9 @@
       },
       {
         "id": 4333,
-        "title": "almost-success",
+        "title": "Quality",
         "scorePercent": 87,
-        "scoreSuccess": "partial",
+        "scoreSuccess": "almost-success",
         "scoreEntries": []
       },
       {
