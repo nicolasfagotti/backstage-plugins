@@ -622,7 +622,7 @@
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 75,
-    "scoreSuccess": "partial",
+    "scoreSuccess": "almost-success",
     "scoringReviewer": "nfagotti",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "areaScores": [
@@ -630,14 +630,14 @@
         "id": 2199,
         "title": "Code",
         "scorePercent": 9,
-        "scoreSuccess": "success",
+        "scoreSuccess": "failure",
         "scoreEntries": []
       },
       {
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 57,
-        "scoreSuccess": "almost-success",
+        "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
@@ -651,7 +651,7 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 52,
-        "scoreSuccess": "almost-failure",
+        "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
