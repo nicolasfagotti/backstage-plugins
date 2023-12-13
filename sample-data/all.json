@@ -119,7 +119,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Test Coverage",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": [
@@ -235,7 +235,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Source Clear",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
@@ -292,7 +292,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Sonar",
         "scorePercent": 10,
         "scoreSuccess": "failure",
         "scoreEntries": [
@@ -427,7 +427,7 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Test Coverage",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": [
@@ -543,7 +543,7 @@
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Source Clear",
         "scorePercent": 25,
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
@@ -600,7 +600,7 @@
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Sonar",
         "scorePercent": 10,
         "scoreSuccess": "failure",
         "scoreEntries": [
@@ -642,21 +642,21 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Test Coverage",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Source Clear",
         "scorePercent": 52,
         "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Sonar",
         "scorePercent": 1,
         "scoreSuccess": "failure",
         "scoreEntries": []
@@ -690,21 +690,21 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Test Coverage",
         "scorePercent": 50,
         "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Source Clear",
         "scorePercent": 52,
         "scoreSuccess": "partial",
         "scoreEntries": []
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Sonar",
         "scorePercent": 5,
         "scoreSuccess": "failure",
         "scoreEntries": []
@@ -738,21 +738,21 @@
       },
       {
         "id": 2208,
-        "title": "Operations",
+        "title": "Test Coverage",
         "scorePercent": 99,
         "scoreSuccess": "success",
         "scoreEntries": []
       },
       {
         "id": 4333,
-        "title": "Quality",
+        "title": "Source Clear",
         "scorePercent": 87,
         "scoreSuccess": "almost-success",
         "scoreEntries": []
       },
       {
         "id": 4328,
-        "title": "Security",
+        "title": "Sonar",
         "scorePercent": 100,
         "scoreSuccess": "success",
         "scoreEntries": []

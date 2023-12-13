@@ -118,7 +118,7 @@
     },
     {
       "id": 2208,
-      "title": "Operations",
+      "title": "Test Coverage",
       "scorePercent": 50,
       "scoreSuccess": "partial",
       "scoreEntries": [
@@ -234,7 +234,7 @@
     },
     {
       "id": 4333,
-      "title": "Quality",
+      "title": "Source Clear",
       "scorePercent": 25,
       "scoreSuccess": "almost-failure",
       "scoreEntries": [
@@ -291,7 +291,7 @@
     },
     {
       "id": 4328,
-      "title": "Security",
+      "title": "Sonar",
       "scorePercent": 10,
       "scoreSuccess": "failure",
       "scoreEntries": [

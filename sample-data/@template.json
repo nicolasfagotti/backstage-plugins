@@ -210,7 +210,7 @@
     },
     {
       "id": 4333,
-      "title": "Quality",
+      "title": "Source Clear",
       "scorePercent": 0,
       "scoreSuccess": "unknown",
       "scoreEntries": [
@@ -351,7 +351,7 @@
               "DB/API/Messaging DR is being done outside team": 30
             },
             {
-              "Security DR is being done outside team": 30
+              "Sonar DR is being done outside team": 30
             },
             {
               "None of the above": 0
@@ -363,7 +363,7 @@
     },
     {
       "id": 2208,
-      "title": "Operations",
+      "title": "Test Coverage",
       "scorePercent": 0,
       "scoreSuccess": "unknown",
       "scoreEntries": [
@@ -916,7 +916,7 @@
     },
     {
       "id": 4328,
-      "title": "Security",
+      "title": "Sonar",
       "scorePercent": 0,
       "scoreSuccess": "unknown",
       "scoreEntries": [
