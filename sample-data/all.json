@@ -629,7 +629,7 @@
       "name": "roomsDS"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 57,
+    "scorePercent": 75,
     "scoreSuccess": "partial",
     "scoringReviewer": "nfagotti",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
@@ -637,14 +637,14 @@
       {
         "id": 2199,
         "title": "Code",
-        "scorePercent": 90,
+        "scorePercent": 9,
         "scoreSuccess": "success",
         "scoreEntries": []
       },
       {
         "id": 3937,
         "title": "Documentation",
-        "scorePercent": 75,
+        "scorePercent": 57,
         "scoreSuccess": "almost-success",
         "scoreEntries": []
       },
@@ -658,24 +658,16 @@
       {
         "id": 4333,
         "title": "Quality",
-        "scorePercent": 25,
+        "scorePercent": 52,
         "scoreSuccess": "almost-failure",
         "scoreEntries": []
       },
       {
         "id": 4328,
         "title": "Security",
-        "scorePercent": 10,
+        "scorePercent": 1,
         "scoreSuccess": "failure",
-        "scoreEntries": [
-          {
-            "id": 2158,
-            "title": "Https",
-            "scorePercent": 0,
-            "scoreSuccess": "failure",
-            "details": "At least one endpoint accessible without SSL protection"
-          }
-        ]
+        "scoreEntries": []
       }
     ]
   }
