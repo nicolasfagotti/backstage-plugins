@@ -314,7 +314,6 @@
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
-    "scoreLabel": "C",
     "scoreSuccess": "partial",
     "scoringReviewer": "nfagotti",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
@@ -323,14 +322,12 @@
         "id": 2199,
         "title": "Code",
         "scorePercent": 90,
-        "scoreLabel": "A",
         "scoreSuccess": "success",
         "scoreEntries": [
           {
             "id": 2157,
             "title": "GitFlow",
             "scorePercent": 100,
-            "scoreLabel": "A",
             "scoreSuccess": "success",
             "scoreHints": "Gitflow: 100%",
             "details": "..."
@@ -359,7 +356,6 @@
             "id": 2153,
             "title": "Application Insights",
             "scorePercent": 80,
-            "scoreLabel": "B",
             "scoreSuccess": ["AppInsights configured", "Dashboard present"],
             "details": "Lorem ipsum for **AppInsights** sit amet, consectetuer adipiscing elit. Aliquam erat volutpat. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. Nullam at arcu a est sollicitudin euismod. Aliquam id dolor. Fusce nibh. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Etiam sapien elit, consequat eget, tristique non, venenatis quis, ante. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris elementum mauris vitae tortor. Maecenas libero. Duis pulvinar. Pellentesque pretium lectus id turpis. Duis ante orci, molestie vitae vehicula venenatis, tincidunt ac pede. Etiam commodo dui eget wisi. Nunc dapibus tortor vel mi dapibus sollicitudin. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Duis risus."
           }
@@ -369,7 +365,6 @@
         "id": 3937,
         "title": "Documentation",
         "scorePercent": 75,
-        "scoreLabel": "B+",
         "scoreSuccess": "almost-success",
         "scoreEntries": [
           {
@@ -434,7 +429,6 @@
         "id": 2208,
         "title": "Operations",
         "scorePercent": 50,
-        "scoreLabel": "D",
         "scoreSuccess": "partial",
         "scoreEntries": [
           {
@@ -551,7 +545,6 @@
         "id": 4333,
         "title": "Quality",
         "scorePercent": 25,
-        "scoreLabel": "F",
         "scoreSuccess": "almost-failure",
         "scoreEntries": [
           {
@@ -609,7 +602,6 @@
         "id": 4328,
         "title": "Security",
         "scorePercent": 10,
-        "scoreLabel": "F",
         "scoreSuccess": "failure",
         "scoreEntries": [
           {
