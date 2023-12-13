@@ -1,10 +1,10 @@
 {
   "entityRef": {
     "kind": "component",
-    "name": "roomsDS"
+    "name": "accountingDS"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
-  "scorePercent": 33,
+  "scorePercent": 99,
   "scoreSuccess": "almost-success",
   "scoringReviewer": "nfagotti",
   "scoringReviewDate": "2022-01-04T08:00:00Z",
@@ -12,7 +12,7 @@
     {
       "id": 2199,
       "title": "Code",
-      "scorePercent": 9,
+      "scorePercent": 90,
       "scoreSuccess": "success",
       "scoreEntries": [
         {
@@ -55,8 +55,8 @@
     {
       "id": 3937,
       "title": "Documentation",
-      "scorePercent": 57,
-      "scoreSuccess": "partial",
+      "scorePercent": 98,
+      "scoreSuccess": "success",
       "scoreEntries": [
         {
           "id": 3938,
@@ -119,8 +119,8 @@
     {
       "id": 2208,
       "title": "Operations",
-      "scorePercent": 50,
-      "scoreSuccess": "partial",
+      "scorePercent": 99,
+      "scoreSuccess": "success",
       "scoreEntries": [
         {
           "id": 2210,
@@ -235,8 +235,8 @@
     {
       "id": 4333,
       "title": "Quality",
-      "scorePercent": 52,
-      "scoreSuccess": "partial",
+      "scorePercent": 87,
+      "scoreSuccess": "almost-success",
       "scoreEntries": [
         {
           "id": 2187,
@@ -292,8 +292,8 @@
     {
       "id": 4328,
       "title": "Security",
-      "scorePercent": 1,
-      "scoreSuccess": "failure",
+      "scorePercent": 100,
+      "scoreSuccess": "success",
       "scoreEntries": [
         {
           "id": 2158,

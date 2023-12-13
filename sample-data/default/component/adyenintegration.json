@@ -1,10 +1,10 @@
 {
   "entityRef": {
     "kind": "component",
-    "name": "roomsDS"
+    "name": "adyenIntegration"
   },
   "generatedDateTimeUtc": "2021-07-22 10:00",
-  "scorePercent": 33,
+  "scorePercent": 35,
   "scoreSuccess": "almost-success",
   "scoringReviewer": "nfagotti",
   "scoringReviewDate": "2022-01-04T08:00:00Z",
@@ -292,7 +292,7 @@
     {
       "id": 4328,
       "title": "Security",
-      "scorePercent": 1,
+      "scorePercent": 5,
       "scoreSuccess": "failure",
       "scoreEntries": [
         {

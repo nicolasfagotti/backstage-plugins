@@ -621,8 +621,8 @@
       "name": "roomsDS"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
-    "scorePercent": 75,
-    "scoreSuccess": "almost-success",
+    "scorePercent": 33,
+    "scoreSuccess": "almost-failure",
     "scoringReviewer": "nfagotti",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "areaScores": [
@@ -659,6 +659,102 @@
         "title": "Security",
         "scorePercent": 1,
         "scoreSuccess": "failure",
+        "scoreEntries": []
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "component",
+      "name": "adyenIntegration"
+    },
+    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "scorePercent": 35,
+    "scoreSuccess": "almost-failure",
+    "scoringReviewer": "nfagotti",
+    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "areaScores": [
+      {
+        "id": 2199,
+        "title": "Code",
+        "scorePercent": 9,
+        "scoreSuccess": "failure",
+        "scoreEntries": []
+      },
+      {
+        "id": 3937,
+        "title": "Documentation",
+        "scorePercent": 57,
+        "scoreSuccess": "partial",
+        "scoreEntries": []
+      },
+      {
+        "id": 2208,
+        "title": "Operations",
+        "scorePercent": 50,
+        "scoreSuccess": "partial",
+        "scoreEntries": []
+      },
+      {
+        "id": 4333,
+        "title": "Quality",
+        "scorePercent": 52,
+        "scoreSuccess": "partial",
+        "scoreEntries": []
+      },
+      {
+        "id": 4328,
+        "title": "Security",
+        "scorePercent": 5,
+        "scoreSuccess": "failure",
+        "scoreEntries": []
+      }
+    ]
+  },
+  {
+    "entityRef": {
+      "kind": "component",
+      "name": "accountingDS"
+    },
+    "generatedDateTimeUtc": "2021-07-22 10:00",
+    "scorePercent": 99,
+    "scoreSuccess": "success",
+    "scoringReviewer": "nfagotti",
+    "scoringReviewDate": "2022-01-04T08:00:00Z",
+    "areaScores": [
+      {
+        "id": 2199,
+        "title": "Code",
+        "scorePercent": 90,
+        "scoreSuccess": "success",
+        "scoreEntries": []
+      },
+      {
+        "id": 3937,
+        "title": "Documentation",
+        "scorePercent": 98,
+        "scoreSuccess": "success",
+        "scoreEntries": []
+      },
+      {
+        "id": 2208,
+        "title": "Operations",
+        "scorePercent": 99,
+        "scoreSuccess": "success",
+        "scoreEntries": []
+      },
+      {
+        "id": 4333,
+        "title": "almost-success",
+        "scorePercent": 87,
+        "scoreSuccess": "partial",
+        "scoreEntries": []
+      },
+      {
+        "id": 4328,
+        "title": "Security",
+        "scorePercent": 100,
+        "scoreSuccess": "success",
         "scoreEntries": []
       }
     ]
